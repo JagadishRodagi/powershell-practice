@@ -9,6 +9,6 @@ Write-Host "Role: $role"
 Explaination:
 #$name, $role -> Varibles to store values
 # $variables inside quotes -> Value is replaced automatically
-Write-Host -> Prints variables values
+#Write-Host -> Prints variables values
 
 
